@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleOutrageEditor Editor Win64 Development (ObstacleOutrage)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_ObstacleOutrage.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

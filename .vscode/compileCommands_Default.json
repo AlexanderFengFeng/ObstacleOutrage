@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\Source\\ObstacleOutrage\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default\\ObstacleOutrage.205.rsp\"",
+		"directory": "D:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\Source\\ObstacleOutrage\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default\\ObstacleOutrage.205.rsp\"",
+		"directory": "D:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\Source\\ObstacleOutrage\\ObstacleOutrage.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default\\ObstacleOutrage.205.rsp\"",
+		"directory": "D:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\Source\\ObstacleOutrage\\ObstacleOutrage.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default\\ObstacleOutrage.205.rsp\"",
+		"directory": "D:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\Source\\ObstacleOutrage\\ObstacleOutrage.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\alexa\\OneDrive\\Documents\\Unreal Projects\\ObstacleOutrage\\.vscode\\compileCommands_Default\\ObstacleOutrage.205.rsp\"",
+		"directory": "D:\\Program Files (x86)\\UE_5.0\\Engine\\Source"
+	}
+]
